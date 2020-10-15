@@ -1,0 +1,16 @@
+﻿  engine.cpp
+  engine_global.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\JonEngine\engine\glad\include\glad\glad.h(32): message : see previous definition of 'APIENTRY'
+D:\JonEngine\engine\engine_global.cpp(30,7): warning C4101: 'remove': unreferenced local variable
+D:\JonEngine\engine\engine_global.cpp(210,25): warning C4834: discarding return value of function with 'nodiscard' attribute
+  input.cpp
+  triangle.cpp
+D:\JonEngine\engine\triangle.cpp(58,4): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+     Creating library D:\JonEngine\Release\engine.lib and object D:\JonEngine\Release\engine.exp
+  Generating code
+  8 of 347 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  engine.vcxproj -> D:\JonEngine\Release\engine.dll

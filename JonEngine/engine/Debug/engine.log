@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  engine.cpp
+  Generating Code...
+     Creating library D:\JonEngine\Debug\engine.lib and object D:\JonEngine\Debug\engine.exp
+  engine.vcxproj -> D:\JonEngine\Debug\engine.dll
